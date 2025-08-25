@@ -2,6 +2,11 @@
 
 Question Explanation
 
+Input: rainbow
+rain
+
+Output: True
+
 You're tasked with writing a program that reads two strings, S1 and S2, and determines if S2 is the first part of S1. The condition for S2 to be considered the first part is that the number of characters in S2 must be equal to the number of characters at the beginning of S1.
 
 Approach
